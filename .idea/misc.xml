@@ -10,7 +10,7 @@
         <entry key="app/src/main/res/layout/fragment_breaking_news.xml" value="0.19293478260869565" />
         <entry key="app/src/main/res/layout/fragment_saved_news.xml" value="0.19293478260869565" />
         <entry key="app/src/main/res/layout/fragment_search_news.xml" value="0.19293478260869565" />
-        <entry key="app/src/main/res/layout/item_article_preview.xml" value="0.19293478260869565" />
+        <entry key="app/src/main/res/layout/item_article_preview.xml" value="0.335" />
         <entry key="app/src/main/res/layout/news_nav_graph.xml" value="0.19293478260869565" />
         <entry key="app/src/main/res/menu/bottom_navigation_menu.xml" value="0.28229166666666666" />
       </map>
